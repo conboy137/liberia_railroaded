@@ -1,2 +1,2 @@
-# liberia_railroaded
+# Liberia Railroaded
 A story mod for the Paradox Interactive game 'Victoria 3' which focuses on Liberia
